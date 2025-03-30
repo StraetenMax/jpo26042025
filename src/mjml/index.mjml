@@ -75,7 +75,7 @@
         <mj-button padding="20px 25px" width="280px" mj-class="T16-700 bg0"><span style="text-trans;form:uppercase;">Journée Portes Ouvertes</span> samedi 29 Mars de 9h30 à 13h</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding="0px" padding-bottom="10px">
+    <mj-section background-color="#e6e6e6" padding="20px">
       <mj-column width="450px">
         <mj-text align="center" padding="0" mj-class="T24-300 cT1">Nos formations en Hôtellerie Restauration de Bac+2 à Bac+5</mj-text>
       </mj-column>
@@ -156,7 +156,7 @@
         <mj-spacer height="10px"></mj-spacer>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding="0px 20px">
+    <mj-section background-color="#ffffff" padding="20px">
       <mj-column width="450px">
         <mj-text align="center" padding="0" mj-class="T24-300 cT1">Pour préparer notre rencontre !</mj-text>
       </mj-column>
