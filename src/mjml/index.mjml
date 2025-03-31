@@ -44,16 +44,18 @@
     <mj-section padding="0">
       <mj-column></mj-column>
     </mj-section>
+    <mj-section background-color="#c21718" padding="0">
+      <mj-column>
+        <mj-image padding="20px" align="left" width="153px" src="https://i.ibb.co/CvXDTv5/logo-Hotellerie-Blanc.png" alt="logo Ecosup Hôtellerie "/>
+      </mj-column>
+    </mj-section>
     <mj-section background-color="#c21718" padding="0"> 
       <mj-group>
         <mj-column vertical-align="middle" width="60%" background-color="#C21718">
-          <mj-image padding="20px" align="left" width="153px" src="https://i.ibb.co/CvXDTv5/logo-Hotellerie-Blanc.png" alt="logo Ecosup Hôtellerie "/>
           <mj-text padding="10px 30px 20px 30px" align="left" mj-class=" T36-900 " color="#ffffff" letter-spacing="-1px">Portes Ouvertes sur votre avenir à Ecosup Hôtellerie</mj-text>
-          <mj-text padding="20px 30px 0 30px" mj-class="T13-400" color="#ffffff"> 
-            <p style="margin:0px;padding-top:20px;padding-bottom:0px;padding-left:0px;padding-right:0px;text-align:left;vertical-align:bottom;font-weight:700;color:#ffffff;">Helène Salmon </p>
-            <p style="margin:0px;padding:0px;text-align:left;vertical-align:bottom;">Responsable des études</p>
-            <p style="margin:0px;padding:0px;text-align:left;vertical-align:bottom;">d'Ecosup Hôtellerie</p>
-          </mj-text>
+          <mj-text padding="20px 30px 0 30px" mj-class="T13-700" color="#ffffff">Helène Salmon </mj-text>
+          <mj-text padding="0 30px" mj-class="T13-400" color="#ffffff">Responsable des études</mj-text>
+          <mj-text padding="0px 30px 20px 30px" mj-class="T13-400" color="#ffffff">d'Ecosup Hôtellerie</mj-text>
         </mj-column>
         <mj-column vertical-align="middle" width="40%">
           <mj-image padding="0" width="400px" src="https://i.ibb.co/wZLbNVPc/af-Jpo29032025.png" alt="affiche de la jpo du samedi 29 mars 2025"></mj-image>
