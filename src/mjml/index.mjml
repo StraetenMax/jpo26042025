@@ -177,22 +177,22 @@
         <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-hotellerie.fr" target="_blank">www.ecosup-hotellerie.fr</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#e6e6e6" padding="20px 32px">
+    <mj-section background-color="#1a1a1a" padding="20px 32px">
       <mj-column width="320px">
-        <mj-image width="140px" padding="0" border="none" align="center" target="_blank" src="https://i.ibb.co/F0kfF0m/ECOSUPCAMPUS012024.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus"/>
-        <mj-text padding="0" align="center" mj-class="cT0 T13-400">17 Place Charles et Albert Roussel</mj-text>
-        <mj-text padding="0" align="center" mj-class="cT0 T13-400" text-transform="uppercase">59200 Tourcoing</mj-text>
-        <mj-text padding="0" align="center" mj-class="cT1 T13-400"><a style="text-decoration:none;font-weight:700;color:#1a1a1a;" href="tel:0320700606">Tél 03.20.70.06.06</a>               </mj-text>
-        <mj-text padding="0" align="center" mj-class="cT0 T13-400"><a style="text-decoration:none;color:#4d4d4d;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
-        <mj-text padding="0 0 25px 0" align="center" mj-class="cT1 T13-400"><a style="text-decoration:none;font-weight:700;color:#1a1a1a;" href="https://ecosup-campus.fr">www.ecosup-campus.fr</a></mj-text>
+        <mj-image width="140px" padding="0" border="none" align="center" target="_blank" src="https://i.ibb.co/8K8y4kW/ECOSUP-CAMPUS-Blanc012024.png" href="https://ecosup-campus.com" alt="Logo Ecosup Campus"/>
+        <mj-text padding="0" align="center" mj-class="cB T13-400">17 Place Charles et Albert Roussel</mj-text>
+        <mj-text padding="0" align="center" mj-class="cB T13-400" text-transform="uppercase">59200 Tourcoing</mj-text>
+        <mj-text padding="0" align="center" mj-class="T13-400"><a style="text-decoration:none;font-weight:700;color:#b3b3b3;" href="tel:0320700606">Tél 03.20.70.06.06</a>               </mj-text>
+        <mj-text padding="0" align="center" mj-class="T13-400"><a style="text-decoration:none;color:#b3b3b3;" href="mailto:contact@ecosup-campus.fr">contact@ecosup-campus.fr</a></mj-text>
+        <mj-text padding="0 0 25px 0" align="center" mj-class=" T13-400"><a style="text-decoration:none;font-weight:700;color:#b3b3b3;" href="https://ecosup-campus.fr">www.ecosup-campus.fr</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section>
       <mj-column>
         <mj-social align="center" icon-size="20px" mode="horizontal">
-          <mj-social-element name="facebook" href="#"></mj-social-element>
-          <mj-social-element name="instagram" href="#"></mj-social-element>
-          <mj-social-element name="linkedin" href="#"></mj-social-element>
+          <mj-social-element name="facebook" href="#" target="_blank" alt="icon facebook"></mj-social-element>
+          <mj-social-element name="instagram" href="#" target="_blank" alt="icon instagram"></mj-social-element>
+          <mj-social-element name="linkedin" href="#" target="_blank" alt="icon linkedin"> </mj-social-element>
         </mj-social>
       </mj-column>
     </mj-section>
