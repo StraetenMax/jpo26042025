@@ -60,17 +60,17 @@
         <mj-image padding="0" width="400px" src="https://i.ibb.co/wZLbNVPc/af-Jpo29032025.png" alt="affiche de la jpo du samedi 29 mars 2025"></mj-image>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding="30px"> 
-      <mj-column width="480px">
-        <mj-text padding="10px 30px" mj-class="T16-400 cT0"><span style="font-weight:700;color:#1a1a1a;">{{ contact.PRENOM }}</span>, découvrez l'univers d'une <span style="font-weight:700;color:#1a1a1a;">formation diplômante et qualifiante</span> qui vous ouvrira de réelles perspectives professionnelles.</mj-text>
-        <mj-text padding="0 30px" mj-class="T16-400 cT0">Lors de cet évènement, vous aurez l'occasion de&nbsp;:</mj-text>
-        <mj-text padding="0" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Découvrir notre campus</span> et nos infrastructures modernes,</mj-text>
-        <mj-text padding="0" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Rencontrer nos enseignants</span> et équipes pédagogiques,</mj-text>
-        <mj-text padding="0" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Assister à des présentations</span> sur nos programmes de formations,</mj-text>
-        <mj-text padding="0" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Poser toutes vos questions</span> sur le cursus, les admissions et la vie étudiante,</mj-text>
-        <mj-text padding="0" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Échanger avec nos étudiants actuels</span> pour obtenir leur retour d'expérience.</mj-text>
-        <mj-text padding="0" mj-class="T16-400 cT0">De quoi donner un coup d'<span style="font-weight:700;color:#1a1a1a;">accélérateur à votre carrière</span> car les grandes ambitions méritent les meilleures opportunités. <span style="font-weight:700;color:1a1a1a;">Un rendez-vous à ne surtout pas manquer&nbsp;!</span></mj-text>
-        <mj-button padding="0" width="280px" mj-class="T16-700 bg0"><span style="text-trans;form:uppercase;">Journée Portes Ouvertes</span> samedi 29 Mars de 9h30 à 13h</mj-button>
+    <mj-section background-color="#ffffff" padding="20px"> 
+      <mj-column width="88%">
+        <mj-text padding="10px 10px" mj-class="T16-400 cT0"><span style="font-weight:700;color:#1a1a1a;">{{ contact.PRENOM }}</span>, découvrez l'univers d'une <span style="font-weight:700;color:#1a1a1a;">formation diplômante et qualifiante</span> qui vous ouvrira de réelles perspectives professionnelles.</mj-text>
+        <mj-text padding="2px 10px" mj-class="T16-400 cT0">Lors de cet évènement, vous aurez l'occasion de&nbsp;:</mj-text>
+        <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Découvrir notre campus</span> et nos infrastructures modernes,</mj-text>
+        <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Rencontrer nos enseignants</span> et équipes pédagogiques,</mj-text>
+        <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Assister à des présentations</span> sur nos programmes de formations,</mj-text>
+        <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Poser toutes vos questions</span> sur le cursus, les admissions et la vie étudiante,</mj-text>
+        <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Échanger avec nos étudiants actuels</span> pour obtenir leur retour d'expérience.</mj-text>
+        <mj-text padding="10px 10px" mj-class="T16-400 cT0">De quoi donner un coup d'<span style="font-weight:700;color:#1a1a1a;">accélérateur à votre carrière</span> car les grandes ambitions méritent les meilleures opportunités. <span style="font-weight:700;color:1a1a1a;">Un rendez-vous à ne surtout pas manquer&nbsp;!</span></mj-text>
+        <mj-button padding="0" padding-top="10px" width="280px" mj-class="T16-700 bg0"><span style="text-trans;form:uppercase;">Journée Portes Ouvertes</span> samedi 29 Mars de 9h30 à 13h</mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="0" background-color="#ffffff">
@@ -79,13 +79,13 @@
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
-      <mj-column width="450px">
+      <mj-column width="88%">
         <mj-text align="center" padding="0" mj-class="T24-300 cT1">Nos formations en Hôtellerie Restauration de Bac+2 à Bac+5</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
       <mj-column width="20%" vertical-align="top">
-        <mj-image padding="0 5px" width="205px" src="https://i.ibb.co/dsBSfdq7/assu1.jpg" alt="formation MAN : Mise à Niveau Hôtellerie Restauration."></mj-image>
+        <mj-image padding="0 5px" width="102px" src="https://i.ibb.co/dsBSfdq7/assu1.jpg" alt="formation MAN : Mise à Niveau Hôtellerie Restauration."></mj-image>
       </mj-column>
       <mj-column width="80%" vertical-align="top">
         <mj-spacer height="20px"></mj-spacer>
@@ -103,7 +103,7 @@
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
       <mj-column width="20%">
-        <mj-image padding="0 5px" width="205px" src="https://i.ibb.co/dsBSfdq7/assu1.jpg" alt="formation BTS Management de l'Hôtellerie - Restauration"></mj-image>
+        <mj-image padding="0 5px" width="102px" src="https://i.ibb.co/dsBSfdq7/assu1.jpg" alt="formation BTS Management de l'Hôtellerie - Restauration"></mj-image>
       </mj-column>
       <mj-column width="80%">
         <mj-spacer height="20px"></mj-spacer>
@@ -121,7 +121,7 @@
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
       <mj-column width="20%" vertical-align="top">
-        <mj-image padding="0 5px" width="205px" src="https://i.ibb.co/dsBSfdq7/assu1.jpg" alt="formation Bachelor Chargé(e) de Gestion Commerciale en Hôtellerie"></mj-image>
+        <mj-image padding="0 5px" width="102px" src="https://i.ibb.co/dsBSfdq7/assu1.jpg" alt="formation Bachelor Chargé(e) de Gestion Commerciale en Hôtellerie"></mj-image>
       </mj-column>
       <mj-column width="80%" vertical-align="top">
         <mj-spacer height="20px"></mj-spacer>
@@ -138,7 +138,7 @@
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
       <mj-column width="20%" vertical-align="top">
-        <mj-image padding="0 5px" width="205px" src="https://i.ibb.co/dsBSfdq7/assu1.jpg" alt="formation Mastère Manager des Organisations en Hôtellerie."></mj-image>
+        <mj-image padding="0 5px" width="102px" src="https://i.ibb.co/dsBSfdq7/assu1.jpg" alt="formation Mastère Manager des Organisations en Hôtellerie."></mj-image>
       </mj-column>
       <mj-column width="80%" vertical-align="top">
         <mj-spacer height="20px"></mj-spacer>
