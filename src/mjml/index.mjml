@@ -73,9 +73,9 @@
         <mj-button padding="0" padding-top="10px" width="280px" mj-class="T16-700 bg0"><span style="text-trans;form:uppercase;">Journée Portes Ouvertes</span> samedi 29 Mars de 9h30 à 13h</mj-button>
       </mj-column>
     </mj-section>
-    <mj-section padding="0" background-color="#ffffff">
+    <mj-section padding="0">
       <mj-column>
-        <mj-divider align="center" width="40%" border-width="2.5px" border-color="#1a1a1a" border-style="solid"></mj-divider>
+        <mj-spacer height="20px"></mj-spacer>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
