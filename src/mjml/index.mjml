@@ -155,18 +155,20 @@
       </mj-column>
     </mj-section>
     <mj-section background-color="#e6e6e6" padding="20px">
-      <mj-column width="40%">
-        <mj-image padding="0 5px" src="https://i.ibb.co/whPywHFL/tour1.jpg" alt=""></mj-image>
-      </mj-column>
+      <mj-group width="40%">
+        <mj-column width="50%">
+          <mj-image align="right" padding="5px" width="150px" src="https://i.ibb.co/whPywHFL/tour1.jpg" alt=""></mj-image>
+          <mj-image align="right" padding="5px" width="150px" src="https://i.ibb.co/whPywHFL/tour1.jpg" alt=""></mj-image>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image align="left" padding="5px" src="https://i.ibb.co/whPywHFL/tour1.jpg" alt=""></mj-image>
+          <mj-image align="left" padding="5px" src="https://i.ibb.co/whPywHFL/tour1.jpg" alt=""></mj-image>
+        </mj-column>
+      </mj-group>
       <mj-column width="60%">
         <mj-text align="left" padding="2px 15px" mj-class="T13-700 c0">Travel Week</mj-text>
         <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1">Immersion dans un pays européen</mj-text>
         <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0">Des étudiants ont passé une semaine d'immersion à Prague, une expérience unique pour améliorer leur anglais. Le matin, des cours interactifs en langue anglaise les attendaient, renforçant leurs compétences. L'après-midi, ils exploraient la richesse culturelle de la ville : le château, le pont Charles, et les ruelles pittoresques. Un voyage éducatif enrichissant dans un décor magique. </mj-text>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="0" background-color="#ffffff">
-      <mj-column>
-        <mj-divider align="center" width="40%" border-width="2.5px" border-color="#1a1a1a" border-style="solid"></mj-divider>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px">
