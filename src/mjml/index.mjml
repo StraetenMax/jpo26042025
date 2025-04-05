@@ -42,22 +42,19 @@
         <mj-text align="center"><a style="color:#4d4d4d;font-size:10px;font-weight:500;line-height:12px" href="{{ mirror}}">Voir la version en ligne</a> &nbsp;&nbsp;|&nbsp;&nbsp; <a style="color:#4d4d4d;font-size:10px;font-weight:500;line-height:12px;" href="{{ unsubscribe }}">Se désinscrire de la liste de diffusion</a></mj-text>
       </mj-column>
     </mj-section>
-    <mj-section padding="0">
-      <mj-column></mj-column>
-    </mj-section>
-    <mj-section background-color="#c21718" padding="0">
+    <mj-section background-color="#c21718" padding="10px">
       <mj-column>
-        <mj-image padding="20px" align="left" width="153px" src="https://i.ibb.co/CvXDTv5/logo-Hotellerie-Blanc.png" alt="logo Ecosup Hôtellerie "/>
+        <mj-image padding="0" align="left" width="153px" src="https://i.ibb.co/CvXDTv5/logo-Hotellerie-Blanc.png" alt="logo Ecosup Hôtellerie"/>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#c21718" padding="0"> 
-      <mj-column vertical-align="middle" width="60%" background-color="#C21718">
-        <mj-text padding="20px 0px 0 30px" mj-class="T13-700" color="#ffffff">Helène Salmon </mj-text>
-        <mj-text padding="0 30px" mj-class="T13-400" color="#ffffff">Responsable des études</mj-text>
-        <mj-text padding="0px 30px 20px 30px" mj-class="T13-400" color="#ffffff">d'Ecosup Hôtellerie</mj-text>
-      </mj-column>
-      <mj-column vertical-align="middle" width="40%">
+    <mj-section background-color="#ecebf3" padding="0">
+      <mj-column>
         <mj-image padding="0" width="400px" src="https://i.ibb.co/wZLbNVPc/af-Jpo29032025.png" alt="affiche de la jpo du samedi 29 mars 2025"></mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ecebf3" padding="20px 30px">  
+      <mj-column width="88%">
+        <mj-text padding="0" align="left" mj-class=" T36-900 c0" letter-spacing="-1px">Portes Ouvertes sur votre avenir à Ecosup Hôtellerie</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px"> 
