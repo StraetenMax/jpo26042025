@@ -54,7 +54,7 @@
     </mj-section>
     <mj-section background-color="#ecebf3" padding="20px 30px">  
       <mj-column width="88%">
-        <mj-text padding="0" align="left" mj-class=" T36-900 c0" letter-spacing="-1px">Portes Ouvertes sur votre avenir à Ecosup Hôtellerie</mj-text>
+        <mj-text padding="0" mj-class=" T36-900 c0" letter-spacing="-1px">Portes Ouvertes sur votre avenir à Ecosup Hôtellerie</mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px"> 
@@ -70,7 +70,7 @@
         <mj-text align="right" padding="0px 30px" mj-class="T13-700 cT0">Helène Salmon </mj-text>
         <mj-text align="right" padding="0px 30px" mj-class="T13-400 cT0">Responsable des études</mj-text>
         <mj-text align="right" padding="0px 30px" mj-class="T13-400 cT0">d'Ecosup Hôtellerie</mj-text>
-        <mj-button padding="0" padding-top="20px" width="280px" mj-class="T16-700 bg0"><span style="text-trans;form:uppercase;">Journée Portes Ouvertes</span> samedi 29 Mars de 9h30 à 13h</mj-button>
+        <mj-button padding="0" padding-top="20px" width="280px" mj-class="T16-700 bg0"><span style="text-transform:uppercase;">Journée Portes Ouvertes</span> samedi 29 Mars de 9h30 à 13h</mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="0">
