@@ -170,18 +170,18 @@
         <mj-text align="center" padding="0" mj-class="T24-300 cT1">Pour préparer notre rencontre&nbsp;!</mj-text>
       </mj-column>
     </mj-section>
-    <mj-section background-color="#ffffff" padding="20px 20px 0 20px">
-      <mj-column width="244px">
-        <mj-button align="center" vertical-align="middle" padding="0 0 20px 0" border="2px solid #C21718" border-radius="3px" inner-padding="14px 20px" background-color="transparent" mj-class="T16-700 c0" href="https://www.google.fr/maps/dir/+50.72123+,+3.15686"><i class="fa-solid fa-location-dot" style="font-family:FontAwesome;font-size:20px;line-height:20px;vertical-align:middle"></i> &nbsp;&nbsp;nous trouver</mj-button>
-      </mj-column>
-      <mj-column width="244px">
-        <mj-button align="center" vertical-align="middle" padding="0 0 20px 0" border-radius="3px" inner-padding="16px 22px" mj-class="T16-700 bg0" href="https://ecosup-assurance.fr/wp-content/uploads/2025/03/telecharger.ics"><i class="fa-regular fa-calendar-days" style="font-family:FontAwesome;color:#ffffff;font-size:20px;line-height:20px;vertical-align:middle"></i> &nbsp;&nbsp;ajouter à mon agenda</mj-button>
-      </mj-column>
-    </mj-section>
-    <mj-section background-color="#ffffff" padding-top="0" padding-right="20px" padding-left="20px">
-      <mj-column>
-        <mj-text align="center" padding="0" mj-class="T13-400 cT0"><a style="font-family:Roboto, Arial, Helvetica, sans-serif;font-style:normal;font-size:13px;line-height:17px;font-weight:400;color:#4d4d4d;" href="https://calendar.google.com/calendar/render?action=TEMPLATE&amp;dates=20250329T083000Z%2F20250329T120000Z&amp;details=Invitation%20%C3%A0%20la%20journ%C3%A9e%20Portes%20Ouvertes%20d%27Ecosup%20Campus&amp;location=17%20place%20Charles%20et%20Albert%20Roussel%2059200%20Tourcoing%20-%20France&amp;text=Journ%C3%A9e%20Portes%20Ouvertes" target="_blank" rel="noopener noreferrer" title="Save Event in Google Calendar">Google Calendar</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="font-family:Roboto,Arial,Helvetica,sans-serif;font-style:normal;font-size:13px;line-height:17px;font-weight:400;color:#4d4d4d;" href="https://outlook.live.com/calendar/0/action/compose?allday=false&amp;body=Invitation%20%C3%A0%20la%20journ%C3%A9e%20Portes%20Ouvertes%20d%27Ecosup%20Campus&amp;enddt=2025-03-29T13%3A00%3A00&amp;location=17%20place%20Charles%20et%20Albert%20Roussel%2059200%20Tourcoing%20-%20France&amp;path=%2Fcalendar%2Faction%2Fcompose&amp;rru=addevent&amp;startdt=2025-03-29T09%3A30%3A00&amp;subject=Journ%C3%A9e%20Portes%20Ouvertes" target="_blank" rel="noopener noreferrer" title="Save Event in Outlook Calendar">Outlook Calendar</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="font-family:Roboto,Arial,Helvetica,sans-serif;font-style:normal;font-size:13px;line-height:17px;font-weight:400;color:#4d4d4d;" href="https://outlook.office.com/calendar/0/action/compose?allday=false&amp;body=Invitation%20%C3%A0%20la%20journ%C3%A9e%20Portes%20Ouvertes%20d%27Ecosup%20Campus&amp;enddt=2025-03-29T13%3A00%3A00&amp;location=17%20place%20Charles%20et%20Albert%20Roussel%2059200%20Tourcoing%20-%20France&amp;path=%2Fcalendar%2Faction%2Fcompose&amp;rru=addevent&amp;startdt=2025-03-29T09%3A30%3A00&amp;subject=Journ%C3%A9e%20Portes%20Ouvertes" target="_blank" rel="noopener noreferrer" title="Save Event in Office 365 Calendar">Office 365 Calendar</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a style="font-family:Roboto,Arial,Helvetica,sans-serif;font-style:normal;font-size:13px;line-height:17px;font-weight:400;color:#4d4d4d;" href="https://calendar.yahoo.com/?desc=Invitation%20%C3%A0%20la%20journ%C3%A9e%20Portes%20Ouvertes%20d%27Ecosup%20Campus&amp;dur=false&amp;et=20250329T120000Z&amp;in_loc=17%20place%20Charles%20et%20Albert%20Roussel%2059200%20Tourcoing%20-%20France&amp;st=20250329T083000Z&amp;title=Journ%C3%A9e%20Portes%20Ouvertes&amp;v=60" target="_blank" rel="noopener noreferrer" title="Save Event in Yahoo! Calendar">Yahoo! Calendar</a></mj-text>
-      </mj-column>
+    <mj-section background-color="#ffffff" padding="20px">
+      <mj-group width="270px">
+        <mj-column width="33.333333%">
+          <mj-image align="center" padding="5px" width="90px" src="https://i.ibb.co/mm88K82/google-Map96x96x2.png" href="https://www.google.com/maps/search/?api=1&amp;query=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
+        </mj-column>
+        <mj-column width="33.333333%">
+          <mj-image align="center" padding="5px" width="90px" src="https://i.ibb.co/zTWty3n5/waze96x96x2.png" href="https://waze.com/ul?q=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"></mj-image>
+        </mj-column>
+        <mj-column width="33.333333%">
+          <mj-image align="center" padding="5px" width="90px" src="https://i.ibb.co/6c99Z3Jt/apple-Maps96x96x2.png" href="http://maps.apple.com/?q=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"></mj-image>
+        </mj-column>
+      </mj-group>
     </mj-section>
     <mj-section mj-class="bg1" padding="0 20px">
       <mj-column>
