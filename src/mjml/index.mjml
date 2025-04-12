@@ -65,7 +65,7 @@
         <mj-text padding="10px 10px" mj-class="T16-400 cT0">De quoi donner un coup d'<span style="font-weight:700;color:#1a1a1a;">accélérateur à votre carrière</span> car les grandes ambitions méritent les meilleures opportunités. <span style="font-weight:700;color:#1a1a1a;">Un rendez-vous à ne surtout pas manquer&nbsp;!</span></mj-text>
         <mj-text align="right" padding="0px 30px" mj-class="T16-700 cT1">Helène Salmon </mj-text>
         <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Responsable des études</mj-text>
-        <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">d'Ecosup Hôtellerie</mj-text>
+        <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Ecosup Hôtellerie</mj-text>
         <mj-button padding="0" padding-top="20px" width="280px" mj-class="T16-700 bg0"><span style="text-transform:uppercase;">Journée Portes Ouvertes</span> samedi 29 Mars de 9h30 à 13h</mj-button>
       </mj-column>
     </mj-section>
