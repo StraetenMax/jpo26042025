@@ -72,7 +72,7 @@
     <mj-section background-color="#ffffff" padding="0">
       <mj-column></mj-column>
     </mj-section>
-    <mj-section padding="20px" background-color="#ffffff">
+    <mj-section padding="20px" padding-bottom="0px" background-color="#ffffff">
       <mj-column width="88%">
         <mj-text align="center" padding="0" mj-class="T24-300 cT1">Nos formations en Hôtellerie Restauration de Bac+2 à Bac+5</mj-text>
       </mj-column>
