@@ -1,7 +1,7 @@
 
 <mjml>
   <mj-head>
-    <mj-title>JPO du 26 avril 2025 Ecosup Assurance</mj-title>
+    <mj-title>JPO du 26 avril 2025 Ecosup Santé</mj-title>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&amp;display=swap"></mj-font>
     <mj-font name="fontAwesome" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"/>
     <mj-raw>
@@ -28,10 +28,10 @@
       <mj-class name="top" vertical-align="top"></mj-class>
       <mj-class name="cT1" color="#1a1a1a"/>
       <mj-class name="cT0" color="#4d4d4d"/>
-      <mj-class name="c0" color="#944694"/>
-      <mj-class name="bg0" background-color="#944694"/>
-      <mj-class name="c1" color="#644092"/>
-      <mj-class name="bg1" background-color="#644092"/>
+      <mj-class name="c0" color="#2386c8"/>
+      <mj-class name="bg0" background-color="#2386c8"/>
+      <mj-class name="c1" color="#114364"/>
+      <mj-class name="bg1" background-color="#114364"/>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
@@ -43,7 +43,24 @@
     </mj-section>
     <mj-section padding="20px" padding-bottom="0px" background-color="#ffffff">
       <mj-column width="88%">
-        <mj-text align="center" padding="0" mj-class="T24-300 cT1">Nos formations en Assurance et Banque de Bac+2 à Bac+5</mj-text>
+        <mj-text align="center" padding="0" mj-class="T24-300 cT1">Nos formations en Secrétariat médical</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px" background-color="#ffffff">
+      <mj-column width="20%" vertical-align="top" background-color="#f2f2f2">
+        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/dsBSfdq7/assu1.jpg" alt="formation MAN : Mise à Niveau Hôtellerie Restauration."></mj-image>
+      </mj-column>
+      <mj-column width="80%" vertical-align="top">
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-button align="left" padding="0px 15px" inner-padding="1px 8px" mj-class="T13-400 cT1" background-color="#e6e6e6" border-radius="2px">Formation en apprentissage</mj-button>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#c21718;">&#x27A4;</span> <span style="font-weight:700;">SM</span> Secrétaire médical(e)</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0"><span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">18 mois</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
+        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-hotellerie.fr/mise-a-niveau-2">
+           En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/PsQFDFLq/fleche-Hotellerie.png" alt="flèche rouge"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
@@ -52,52 +69,15 @@
       </mj-column>
       <mj-column width="80%" vertical-align="top">
         <mj-spacer height="20px"></mj-spacer>
-        <mj-button align="left" padding="0px 15px" inner-padding="1px 8px" mj-class="T13-400 cT1" background-color="#e6e6e6" border-radius="2px">Formation en Apprentissage</mj-button>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#c21718;">&#x27A4;</span> <span style="font-weight:700;">BTS</span> Assurance</mj-text>
+        <mj-button align="left" padding="0px 15px" inner-padding="1px 8px" mj-class="T13-400 cT1" background-color="#e6e6e6" border-radius="2px">Formation initiale</mj-button>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#c21718;">&#x27A4;</span> <span style="font-weight:700;">SM</span> Secrétaire médical(e)</mj-text>
         <mj-text align="left" padding="0px 15px" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac,</mj-text>
         <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">2 ans</span>,</mj-text>
+           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">8 mois</span>,</mj-text>
         <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
+           <span style="color:#d9d9d9;">&#x25CF;</span> Formation initiale ou continue. Financement possible grâce à la mobilisation du CPF ou autres organismes extérieurs.</mj-text>
         <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-hotellerie.fr/bts-management-hotellerie-restauration-apprentissage">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/PsQFDFLq/fleche-Hotellerie.png" alt="flèche rouge"/></mj-button>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="20px" background-color="#ffffff">
-      <mj-column width="20%" vertical-align="top" background-color="#f2f2f2">
-        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/dsBSfdq7/assu1.jpg" alt="formation Bachelor Chargé(e) de Gestion Commerciale en Hôtellerie"></mj-image>
-      </mj-column>
-      <mj-column width="80%" vertical-align="top">
-        <mj-spacer height="20px"></mj-spacer>
-        <mj-button align="left" padding="0px 15px" inner-padding="1px 8px" mj-class="T13-400 cT1" background-color="#e6e6e6" border-radius="2px">Formation en Apprentissage</mj-button>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#c21718;">&#x27A4;</span> <span style="font-weight:700;">Bachelor</span> Chargé(e) de Clientèles en Assurance et Banque</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac+2,</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">1 an</span>,</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : Programme conçu avec <span style="font-weight:700;color:#1a1a1a;">ESA</span>,</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0"><span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
-        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-hotellerie.fr/bachelor-charge-de-gestion-commerciale-en-hotellerie">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/PsQFDFLq/fleche-Hotellerie.png" alt="flèche rouge"/></mj-button>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="20px" background-color="#ffffff">
-      <mj-column width="20%" vertical-align="top" background-color="#f2f2f2">
-        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/dsBSfdq7/assu1.jpg" alt="formation Mastère Manager des Organisations en Hôtellerie."></mj-image>
-      </mj-column>
-      <mj-column width="80%" vertical-align="top">
-        <mj-spacer height="20px"></mj-spacer>
-        <mj-button align="left" padding="0px 15px" inner-padding="1px 8px" border-radius="2px" background-color="#e6e6e6" mj-class="T13-400 cT1">Formation en Apprentissage</mj-button>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#c21718;">&#x27A4;</span> <span style="font-weight:700;">Mastère</span> Expert(e) en Ingénierie Patrimoniale</mj-text>
-        <mj-text padding="0 15px" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac+3,</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">2 ans</span>,</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : Programme conçu avec <span style="font-weight:700;color:#1a1a1a;">ESA</span>,</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
-        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-hotellerie.fr/mastere-manager-organisations-hotellerie">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/PsQFDFLq/fleche-Hotellerie.png" alt="flèche rouge"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-wrapper background-color="#ffffff" padding="20px">
@@ -123,7 +103,7 @@
     </mj-wrapper>
     <mj-section mj-class="bg1" padding="0 20px">
       <mj-column>
-        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-assurance.fr" target="_blank">www.ecosup-assurance.fr</a></mj-text>
+        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-sante.fr" target="_blank">www.ecosup-sante.fr</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#1a1a1a" padding="20px 32px">
