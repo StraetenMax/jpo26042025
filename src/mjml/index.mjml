@@ -47,7 +47,8 @@
     </mj-section>
     <mj-section background-color="#ecebf3" padding="0">
       <mj-column>
-        <mj-image padding="0" width="400px" src="https://i.ibb.co/wZLbNVPc/af-Jpo29032025.png" alt="affiche de la jpo du samedi 29 mars 2025"></mj-image>
+        <mj-image padding="0" width="600px" src="https://i.ibb.co/TVhdB4S/02-Etudiant.jpg" alt="étudiants enthousiastes pour le campus d'Ecosup"></mj-image>
+        <mj-image padding="0" width="600px" src="https://i.ibb.co/KBTM6bs/jpo26042025-Affiche.png" alt="affiche de la jpo du samedi 26 avril 2025"></mj-image>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px"> 
@@ -113,7 +114,7 @@
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
       <mj-column width="20%" vertical-align="top" background-color="#f2f2f2">
-        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/dsBSfdq7/assu1.jpg" alt=""></mj-image>
+        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/k6MkhkF4/03hotjpo26042025.png" alt=""></mj-image>
       </mj-column>
       <mj-column width="80%" vertical-align="top">
         <mj-spacer height="20px"></mj-spacer>
@@ -131,7 +132,7 @@
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
       <mj-column width="20%" vertical-align="top" background-color="#f2f2f2">
-        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/dsBSfdq7/assu1.jpg" alt=""></mj-image>
+        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/CspDpSLS/04hotjpo26042025.png" alt=""></mj-image>
       </mj-column>
       <mj-column width="80%" vertical-align="top">
         <mj-spacer height="20px"></mj-spacer>
