@@ -1,7 +1,7 @@
 
 <mjml>
   <mj-head>
-    <mj-title>JPO du 26 avril 2025 Ecosup Diététique</mj-title>
+    <mj-title>JPO du 26 avril 2025 Ecosup Santé</mj-title>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&amp;display=swap"></mj-font>
     <mj-font name="fontAwesome" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"/>
     <mj-raw>
@@ -26,10 +26,10 @@
       <mj-class name="T10-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="12px" font-weight="300"/>
       <mj-class name="cT1" color="#1a1a1a"/>
       <mj-class name="cT0" color="#4d4d4d"/>
-      <mj-class name="c0" color="#EC619F"/>
-      <mj-class name="bg0" background-color="#EC619F"/>
-      <mj-class name="c1" color="#A83163"/>
-      <mj-class name="bg1" background-color="#A83163"/>
+      <mj-class name="c0" color="#2386c8"/>
+      <mj-class name="bg0" background-color="#2386c8"/>
+      <mj-class name="c1" color="#114364"/>
+      <mj-class name="bg1" background-color="#114364"/>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
@@ -41,7 +41,7 @@
     </mj-section>
     <mj-section mj-class="bg0" padding="10px">
       <mj-column>
-        <mj-image padding="0" align="left" width="153px" src="https://i.ibb.co/HBxBYWw/Logo-Diet-Blanc.png" alt="logo Ecosup Diététique"/>
+        <mj-image padding="0" align="left" width="153px" src="https://i.ibb.co/vs1kWDh/logo-Sante-Blanc.png" alt="logo Ecosup Santé"/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ecebf3" padding="0">
@@ -61,48 +61,50 @@
         <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Poser</span> toutes vos questions sur les admissions, le parcours, ou encore la vie étudiante,</mj-text>
         <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Discuter</span> directement avec nos étudiants pour connaître leur ressenti et leurs expériences.</mj-text>
         <mj-text padding="10px 10px" mj-class="T16-400 cT0">Ce sera l'occasion parfaite pour donner un véritable coup d'accélérateur à votre carrière. Parce que vos ambitions méritent les meilleures opportunités. Un rendez-vous à ne pas manquer&nbsp;!</mj-text>
-        <mj-text align="right" padding="0px 30px" mj-class="T16-700 cT1">Jérôme Poulain </mj-text>
+        <mj-text align="right" padding="0px 30px" mj-class="T16-700 cT1">Sandrine Coudron </mj-text>
         <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Responsable pédagogique</mj-text>
-        <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Ecosup Diététique</mj-text>
+        <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Secrétaire médical(e)</mj-text>
+        <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Ecosup Santé</mj-text>
         <mj-button padding="0" padding-top="20px" width="280px" mj-class="T16-700 bg0"><span style="text-transform:uppercase;">Journée Portes Ouvertes</span> samedi 29 Mars de 9h30 à 13h</mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" padding-bottom="0px" background-color="#ffffff">
       <mj-column width="88%">
-        <mj-text align="center" padding="0" mj-class="T24-300 cT1">Nos formations en Diététique de Bac+2 à Bac+3</mj-text>
+        <mj-text align="center" padding="0" mj-class="T24-300 cT1">Nos formations en Secrétariat médical</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
       <mj-column width="20%" vertical-align="top" background-color="#f2f2f2">
-        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/dsBSfdq7/assu1.jpg" alt="formation BTS Management de l'Hôtellerie - Restauration"></mj-image>
+        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/4RbqrzC6/02-SMjpo26042025.png" alt="Formation secrétaire médicale en apprentissage"></mj-image>
+      </mj-column>
+      <mj-column width="80%" vertical-align="top">
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-button align="left" padding="0px 15px" inner-padding="1px 8px" mj-class="T13-400 cT1" background-color="#e6e6e6" border-radius="2px">Formation en apprentissage</mj-button>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#2386C8;">&#x27A4;</span> <span style="font-weight:700;">SM</span> Secrétaire médical(e)</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0"><span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">18 mois</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
+        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-sante.fr/secretaire-medicale-2">
+           En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/TBFd3wcH/flecheSM.png" alt="flèche Secrétaire médical(e) bleue"/></mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px" background-color="#ffffff">
+      <mj-column width="20%" vertical-align="top" background-color="#f2f2f2">
+        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/bgb5yxkN/01-SMjpo26042025.png" alt="formation secrétaire médicale en initial"></mj-image>
       </mj-column>
       <mj-column width="80%" vertical-align="top">
         <mj-spacer height="20px"></mj-spacer>
         <mj-button align="left" padding="0px 15px" inner-padding="1px 8px" mj-class="T13-400 cT1" background-color="#e6e6e6" border-radius="2px">Formation initiale</mj-button>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#EC619F;">&#x27A4;</span> <span style="font-weight:700;">BTS</span> Diététique et Nutrition</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#2386C8;">&#x27A4;</span> <span style="font-weight:700;">SM</span> Secrétaire médical(e)</mj-text>
         <mj-text align="left" padding="0px 15px" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac,</mj-text>
         <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">2 ans</span>,</mj-text>
+           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">8 mois</span>,</mj-text>
         <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Formation initiale ou continue. Financement possible grâce à la mobilisation du CPF ou autres organismes extérieurs.</mj-text>
-        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-sante.fr/bts-dietetique-en-scolaire">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/jtt1pSn/fleche-Diet.png" alt="flèche Diététique rose"/></mj-button>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="20px" background-color="#ffffff">
-      <mj-column width="20%" vertical-align="top" background-color="#f2f2f2">
-        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/dsBSfdq7/assu1.jpg" alt="formation Bachelor Chargé(e) de Gestion Commerciale en Hôtellerie"></mj-image>
-      </mj-column>
-      <mj-column width="80%" vertical-align="top">
-        <mj-spacer height="20px"></mj-spacer>
-        <mj-button align="left" padding="0px 15px" inner-padding="1px 8px" mj-class="T13-400 cT1" background-color="#e6e6e6" border-radius="2px">Formation initiale</mj-button>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#EC619F;">&#x27A4;</span> <span style="font-weight:700;">Bachelor</span> Chargé(e) de projet en nutrition et de la prise en charge des troubles du comportement alimentaire</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac+2,</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">1 an</span>,</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0"><span style="color:#d9d9d9;">&#x25CF;</span> Formation initiale ou continue. Financement possible grâce à la mobilisation du CPF ou autres organismes extérieurs.</mj-text>
-        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-sante.fr/bachelor-charge-de-projet-en-nutrition">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/jtt1pSn/fleche-Diet.png" alt="flèche diététique rose"/></mj-button>
+        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-sante.fr/secretaire-medicale-2">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/TBFd3wcH/flecheSM.png" alt="flèche Secrétaire médicale bleue"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#e6e6e6" padding="20px">
@@ -148,7 +150,7 @@
     </mj-wrapper>
     <mj-section mj-class="bg1" padding="0 20px">
       <mj-column>
-        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-sante.fr/dietetique" target="_blank">www.ecosup-dietetique.fr</a></mj-text>
+        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-sante.fr" target="_blank">www.ecosup-sante.fr</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#1a1a1a" padding="20px 32px">
