@@ -126,6 +126,8 @@
         <mj-text align="left" padding="2px 15px" mj-class="T24-700 c1">Énergie et convivialité : la vie étudiante à EcoSup Campus</mj-text>
         <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0"><span style="font-weight:700;color:#1a1a1a;">Ecosup Campus</span> organise toute l'année des animations variées pour <span style="font-weight:700;color:#1a1a1a;">dynamiser la vie étudiante</span> : concours photos, petits déjeuners, défis sportifs, oeufs de Pâques... </mj-text>
         <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0"><span style="font-weight:700;color:#1a1a1a;">Une grande soirée de rentrée</span>, axée sur le partage et l'échange, rassemble tous les étudiants après leur arrivée, <span style="font-weight:700;color:#1a1a1a;">favorisant les rencontres et l'intégration</span> au sein du campus.</mj-text>
+        <mj-button align="left" padding-top="15px" border-radius="5px" mj-class="T13-700 bg1" color="#ffffff" target="_blank" href="https://www.instagram.com/ecosup.campus/">
+           La vie du campus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/4ZRXYT7M/fleche-Blanche.png" alt="flèche blanche"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-wrapper background-color="#ffffff" padding="20px">
