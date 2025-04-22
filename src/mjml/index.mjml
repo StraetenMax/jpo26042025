@@ -1,7 +1,7 @@
 
 <mjml>
   <mj-head>
-    <mj-title>JPO du 26 avril 2026 Ecosup Hôtellerie</mj-title>
+    <mj-title>JPO du 26 avril 2025 Ecosup Santé</mj-title>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&amp;display=swap"></mj-font>
     <mj-font name="fontAwesome" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"/>
     <mj-raw>
@@ -24,13 +24,14 @@
       <mj-class name="T13-700" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="700"/>
       <mj-class name="T13-400" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="13px" line-height="17px" font-weight="400"/>
       <mj-class name="T10-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="12px" font-weight="300"/>
+      <mj-class name="L" align="left" border-style="solid" border-width="0.75px" width="80px" padding="10px 0"></mj-class>
+      <mj-class name="top" vertical-align="top"></mj-class>
       <mj-class name="cT1" color="#1a1a1a"/>
       <mj-class name="cT0" color="#4d4d4d"/>
-      <mj-class name="cB" color="#ffffff"/>
-      <mj-class name="c0" color="#C21718"/>
-      <mj-class name="bg0" background-color="#C21718"/>
-      <mj-class name="c1" color="#74151E"/>
-      <mj-class name="bg1" background-color="#74151E"/>
+      <mj-class name="c0" color="#2daae1"/>
+      <mj-class name="bg0" background-color="#2daae1"/>
+      <mj-class name="c1" color="#055063"/>
+      <mj-class name="bg1" background-color="#055063"/>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
@@ -42,19 +43,19 @@
     </mj-section>
     <mj-section mj-class="bg0" padding="10px">
       <mj-column>
-        <mj-image padding="0" align="left" width="153px" src="https://i.ibb.co/CvXDTv5/logo-Hotellerie-Blanc.png" alt="logo Ecosup Hôtellerie"/>
+        <mj-image padding="0" align="left" width="153px" src="https://i.ibb.co/vs1kWDh/logo-Sante-Blanc.png" alt="logo Ecosup Santé"/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ecebf3" padding="0">
       <mj-column>
-        <mj-image padding="0" width="600px" src="https://i.ibb.co/TVhdB4S/02-Etudiant.jpg" alt="étudiants enthousiastes pour le campus d'Ecosup"></mj-image>
-        <mj-image padding="0" width="600px" src="https://i.ibb.co/KBTM6bs/jpo26042025-Affiche.png" alt="affiche de la jpo du samedi 26 avril 2025"></mj-image>
+        <mj-image padding="0" width="600px" src="https://i.ibb.co/TVhdB4S/02-Etudiant.jpg" alt="étudiants enthousiastes pour le campus d'Ecosup"/>
+        <mj-image padding="0" width="600px" src="https://i.ibb.co/KBTM6bs/jpo26042025-Affiche.png" alt="affiche de la jpo du samedi 26 avril 2025"/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ffffff" padding="20px"> 
       <mj-column width="88%">
         <mj-text padding="10px 10px" mj-class="T16-400 cT0">Bonjour <span style="font-weight:700;color:#1a1a1a;">{{ contact.PRENOM }}</span>, </mj-text>
-        <mj-text padding="10px 10px" mj-class="T16-400 cT0">Vous êtes intéressé(e) par les métiers de l'hôtellerie et de la restauration. Plongez dans une expérience unique avec une formation diplômante et qualifiante qui boostera votre avenir professionnel&nbsp;!</mj-text>
+        <mj-text padding="10px 10px" mj-class="T16-400 cT0">Vous êtes intéressé(e) par les métiers de la petite enfance. Plongez dans une expérience unique avec une formation diplômante et qualifiante qui boostera votre avenir professionnel&nbsp;!</mj-text>
         <mj-text padding="2px 10px" mj-class="T16-400 cT0">Lors de cet événement, vous aurez l'opportunité de : </mj-text>
         <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Explorer</span> notre campus moderne et <span style="font-weight:700;color:#1a1a1a;">découvrir</span> des infrastructures à la pointe,</mj-text>
         <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Échanger</span> avec nos enseignants passionnés et notre équipe pédagogique,</mj-text>
@@ -62,112 +63,69 @@
         <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Poser</span> toutes vos questions sur les admissions, le parcours, ou encore la vie étudiante,</mj-text>
         <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Discuter</span> directement avec nos étudiants pour connaître leur ressenti et leurs expériences.</mj-text>
         <mj-text padding="10px 10px" mj-class="T16-400 cT0">Ce sera l'occasion parfaite pour donner un véritable coup d'accélérateur à votre carrière. Parce que vos ambitions méritent les meilleures opportunités. Un rendez-vous à ne pas manquer&nbsp;!</mj-text>
-        <mj-text align="right" padding="0px 30px" mj-class="T16-700 cT1">Helène Salmon </mj-text>
-        <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Responsable des études</mj-text>
-        <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Ecosup Hôtellerie</mj-text>
+        <mj-text align="right" padding="0px 30px" mj-class="T16-700 cT1">Jérome Poulain </mj-text>
+        <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Responsable pédagogique</mj-text>
+        <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Petite enfance</mj-text>
+        <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Ecosup Santé</mj-text>
         <mj-button padding="0" padding-top="20px" width="280px" mj-class="T16-700 bg0"><span style="text-transform:uppercase;">Journée Portes Ouvertes</span> samedi 26 avril de 9h30 à 13h</mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" padding-bottom="0px" background-color="#ffffff">
       <mj-column width="88%">
-        <mj-text align="center" padding="0" mj-class="T24-300 cT1">Nos formations en Hôtellerie Restauration de Bac+2 à Bac+5</mj-text>
+        <mj-text align="center" padding="0" mj-class="T24-300 cT1">Notre formation Petite Enfance</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
       <mj-column width="20%" vertical-align="top" background-color="#f2f2f2">
-        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/qLYWKwdd/01hotjpo26042025.png" alt="formation Mise à niveau découverte de l'hôtellerie et de la restauration"></mj-image>
+        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/JRBRQNB3/01-Aepejpo26042025.png" alt="AEPE Accompagnant(e) Éducatif Petite Enfance en alternance"/>
+      </mj-column>
+      <mj-column width="80%" vertical-align="top">
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-button align="left" padding="0px 15px" inner-padding="1px 8px" mj-class="T13-400 cT1" background-color="#e6e6e6" border-radius="2px">Formation en apprentissage</mj-button>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#2DAAE1;">&#x27A4;</span> <span style="font-weight:700;">AEPE</span> Accompagnant(e) Éducatif Petite Enfance</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">12 mois</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
+        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-sante.fr/accompagnant-petite-enfance">
+           En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/35n26cRp/fleche-AEPE.png" alt="flèche AEPE bleue"/></mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px" background-color="#ffffff">
+      <mj-column width="20%" vertical-align="top" background-color="#f2f2f2">
+        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/rfxmPRbz/02-Aepejpo26042025.png" alt="AEPE Accompagnant(e) Éducatif Petite Enfance en initial"/>
       </mj-column>
       <mj-column width="80%" vertical-align="top">
         <mj-spacer height="20px"></mj-spacer>
         <mj-button align="left" padding="0px 15px" inner-padding="1px 8px" mj-class="T13-400 cT1" background-color="#e6e6e6" border-radius="2px">Formation initiale</mj-button>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#c21718;">&#x27A4;</span> <span style="font-weight:700;">MAN</span> Mise à Niveau Hôtellerie Restauration</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac,</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">1 an</span>,</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Bourse Ecosup</span>,</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Formation initiale ou continue. Financement possible grâce à la mobilisation du CPF ou autres organismes extérieurs.</mj-text>
-        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-hotellerie.fr/mise-a-niveau-2">
-           En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/PsQFDFLq/fleche-Hotellerie.png" alt="flèche hôtellerie rouge"/></mj-button>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="20px" background-color="#ffffff">
-      <mj-column width="20%" vertical-align="top" background-color="#f2f2f2">
-        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/gXWrw2j/02hotjpo26042025.png" alt="formation BTS Management Hôtellerie Restauration"></mj-image>
-      </mj-column>
-      <mj-column width="80%" vertical-align="top">
-        <mj-spacer height="20px"></mj-spacer>
-        <mj-button align="left" padding="0px 15px" inner-padding="1px 8px" mj-class="T13-400 cT1" background-color="#e6e6e6" border-radius="2px">Formation en apprentissage</mj-button>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#c21718;">&#x27A4;</span> <span style="font-weight:700;">BTS</span> Management de l'Hôtellerie - Restauration</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#2DAAE1">&#x27A4;</span> <span style="font-weight:700;">AEPE</span> Accompagnant(e) Éducatif Petite Enfance</mj-text>
         <mj-text align="left" padding="0px 15px" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac,</mj-text>
         <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">2 ans</span>,</mj-text>
+           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">12 mois</span>,</mj-text>
         <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Diplôme reconnue par l'État</span>,</mj-text>
-        <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
-        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-hotellerie.fr/bts-management-hotellerie-restauration-apprentissage">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/PsQFDFLq/fleche-Hotellerie.png" alt="flèche hôtellerie rouge"/></mj-button>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="20px" background-color="#ffffff">
-      <mj-column width="20%" vertical-align="top" background-color="#f2f2f2">
-        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/k6MkhkF4/03hotjpo26042025.png" alt=""></mj-image>
-      </mj-column>
-      <mj-column width="80%" vertical-align="top">
-        <mj-spacer height="20px"></mj-spacer>
-        <mj-button align="left" padding="0px 15px" inner-padding="1px 8px" mj-class="T13-400 cT1" background-color="#e6e6e6" border-radius="2px">Formation en apprentissage</mj-button>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#c21718;">&#x27A4;</span> <span style="font-weight:700;">Bachelor</span> Chargé(e) de Gestion commerciale en Hôtellerie</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac+2,</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">1 an</span>,</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Travel Week</span>, semaine immersive en mobilité internationale,</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0"><span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
-        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-hotellerie.fr/bachelor-charge-de-gestion-commerciale-en-hotellerie">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/PsQFDFLq/fleche-Hotellerie.png" alt="flèche hôtellerie rouge"/></mj-button>
-      </mj-column>
-    </mj-section>
-    <mj-section padding="20px" background-color="#ffffff">
-      <mj-column width="20%" vertical-align="top" background-color="#f2f2f2">
-        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/CspDpSLS/04hotjpo26042025.png" alt=""></mj-image>
-      </mj-column>
-      <mj-column width="80%" vertical-align="top">
-        <mj-spacer height="20px"></mj-spacer>
-        <mj-button align="left" padding="0px 15px" inner-padding="1px 8px" border-radius="2px" background-color="#e6e6e6" mj-class="T13-400 cT1">Formation en apprentissage</mj-button>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#c21718;">&#x27A4;</span> <span style="font-weight:700;">Mastère</span> Manager des Organisations en Hôtellerie</mj-text>
-        <mj-text padding="0 15px" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac+3,</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">2 ans</span>,</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Double certification internationale</span>,</mj-text>
-        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
-           <span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
-        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-hotellerie.fr/mastere-manager-organisations-hotellerie">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/PsQFDFLq/fleche-Hotellerie.png" alt="flèche Hôtellerie rouge"/></mj-button>
+           <span style="color:#d9d9d9;">&#x25CF;</span> Formation initiale ou continue. Financement possible grâce à la mobilisation du CPF ou autres organismes extérieurs.</mj-text>
+        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-sante.fr/accompagnant-petite-enfance">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/35n26cRp/fleche-AEPE.png" alt="flèche AEPE bleue"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#e6e6e6" padding="20px">
       <mj-group width="40%">
         <mj-column width="50%">
-          <mj-image align="right" padding="5px" width="150px" src="https://i.ibb.co/ZRRTt0rp/photo03.png" alt="Découverte de Prague avec les étudiants en Bachelor Hôtellerie Restauration et Tourisme"></mj-image>
-          <mj-image align="right" padding="5px" width="150px" src="https://i.ibb.co/RkV6z7qF/photo04.png" alt="Conférences et participations aux cours... tout se déroule en anglais"></mj-image>
+          <mj-image align="right" padding="5px" width="150px" src="https://i.ibb.co/xtNt9KbL/04jpo2025article-SM.png" alt="Remise de diplômes"/>
+          <mj-image align="right" padding="5px" width="150px" src="https://i.ibb.co/dw1NjsBT/03jpo2025article-SM.png" alt="Mardi gras et Carnaval à Ecosup Campus"/>
         </mj-column>
         <mj-column width="50%">
-          <mj-image align="left" padding="5px" width="150px" src="https://i.ibb.co/FkKwrsCW/photo02.png" alt="De nombreux challenges pour améliorer ses connaissances métiers"></mj-image>
-          <mj-image align="left" padding="5px" width="150px" src="https://i.ibb.co/8nG4xC4H/photo01.png" alt="Découverte de la ville : le tramway de la ville de Prague"></mj-image>
+          <mj-image align="left" padding="5px" width="150px" src="https://i.ibb.co/QFr1bWD5/02jpo2025article-SM.png" alt="Saint Nicolas, distribution d'un chocolat et d'une tranche de briohe"></mj-image>
+          <mj-image align="left" padding="5px" width="150px" src="https://i.ibb.co/xSyz12V7/01jpo2025article-SM.png" alt="Mois de novembre sur le cancer de la prostate"></mj-image>
         </mj-column>
       </mj-group>
       <mj-column width="60%">
         <mj-spacer height="18px"></mj-spacer>
-        <mj-text align="left" padding="2px 15px" mj-class="T13-700 c0" text-transform="uppercase">Travel Week</mj-text>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-700 cT1">Destination Prague en Tchéquie</mj-text>
-        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0">Une semaine totalement dédiée à la culture du voyage et de l'hôtellerie restauration.</mj-text>
-        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0"><span style="font-weight:700;color:#1a1a1a;">100% prise en charge</span>, vous profiterez d'un programme alliant des challenges, des cours et de nombreuses visites touristiques en anglais de la ville et de ses attractions.</mj-text>
-        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0">Une semaine pour progresser, voyager, rencontrer, s'amuser, profiter…</mj-text>
-        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0">Faites vos valises, <span style="font-weight:700;color:#1a1a1a;">embarquement en mars 2026.</span></mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-700 c1">Énergie et convivialité : la vie étudiante à EcoSup Campus</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0"><span style="font-weight:700;color:#1a1a1a;">Ecosup Campus</span> organise toute l'année des animations variées pour <span style="font-weight:700;color:#1a1a1a;">dynamiser la vie étudiante</span> : concours photos, petits déjeuners, défis sportifs, oeufs de Pâques... </mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0"><span style="font-weight:700;color:#1a1a1a;">Une grande soirée de rentrée</span>, axée sur le partage et l'échange, rassemble tous les étudiants après leur arrivée, <span style="font-weight:700;color:#1a1a1a;">favorisant les rencontres et l'intégration</span> au sein du campus.</mj-text>
       </mj-column>
     </mj-section>
     <mj-wrapper background-color="#ffffff" padding="20px">
@@ -180,20 +138,20 @@
       <mj-section padding="0px">
         <mj-group width="225px">
           <mj-column width="33.333333%">
-            <mj-image align="right" padding="10px" width="75px" src="https://i.ibb.co/DPZSYNzY/google-Map96x96x2.png" href="https://www.google.com/maps/search/?api=1&amp;query=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
+            <mj-image align="right" padding="10px" width="75px" src="https://i.ibb.co/DPZSYNzY/google-Map96x96x2.png" alt="google maps" href="https://www.google.com/maps/search/?api=1&amp;query=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
           </mj-column>
           <mj-column width="33.333333%">
-            <mj-image align="center" padding="10px" width="75px" src="https://i.ibb.co/zTWty3n5/waze96x96x2.png" href="https://waze.com/ul?q=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"></mj-image>
+            <mj-image align="center" padding="10px" width="75px" src="https://i.ibb.co/zTWty3n5/waze96x96x2.png" alt="waze" href="https://waze.com/ul?q=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
           </mj-column>
           <mj-column width="33.333333%">
-            <mj-image align="left" padding="10px" width="75px" src="https://i.ibb.co/6c99Z3Jt/apple-Maps96x96x2.png" href="http://maps.apple.com/?q=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"></mj-image>
+            <mj-image align="left" padding="10px" width="75px" src="https://i.ibb.co/6c99Z3Jt/apple-Maps96x96x2.png" alt="apple maps" href="http://maps.apple.com/?q=Ecosup-campus,+17+place+Charles+et+Albert+Roussel,+59200+Tourcoing"/>
           </mj-column>
         </mj-group>
       </mj-section>
     </mj-wrapper>
     <mj-section mj-class="bg1" padding="0 20px">
       <mj-column>
-        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-hotellerie.fr" target="_blank">www.ecosup-hotellerie.fr</a></mj-text>
+        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-sante.fr" target="_blank">www.ecosup-sante.fr</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#1a1a1a" padding="20px 32px">
@@ -209,9 +167,9 @@
     <mj-section background-color="#1a1a1a" padding="0">
       <mj-column>
         <mj-social align="center" icon-size="30px" icon-height="30px" inner-padding="20px" mode="horizontal">
-          <mj-social-element src="https://i.ibb.co/99m2HwcM/facebook-Gris.png" href="#" target="_blank" alt="icon facebook"></mj-social-element>
-          <mj-social-element src="https://i.ibb.co/xqhcdmtf/instagram-Gris.png" href="#" target="_blank" alt="icon instagram"></mj-social-element>
-          <mj-social-element src="https://i.ibb.co/9H8VZWmK/linkedin-Gris.png" href="#" target="_blank" alt="icon linkedin"> </mj-social-element>
+          <mj-social-element src="https://i.ibb.co/99m2HwcM/facebook-Gris.png" href="https://www.facebook.com/EcosupCamp/" target="_blank" alt="icon facebook"></mj-social-element>
+          <mj-social-element src="https://i.ibb.co/xqhcdmtf/instagram-Gris.png" href="https://www.instagram.com/ecosup.campus/" target="_blank" alt="icon instagram"></mj-social-element>
+          <mj-social-element src="https://i.ibb.co/9H8VZWmK/linkedin-Gris.png" href="https://www.linkedin.com/company/ecosup-campus" target="_blank" alt="icon linkedin"> </mj-social-element>
         </mj-social>
       </mj-column>
     </mj-section>
