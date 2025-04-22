@@ -1,7 +1,7 @@
 
 <mjml>
   <mj-head>
-    <mj-title>JPO du 26 avril 2025 Ecosup Immobilier</mj-title>
+    <mj-title>JPO du 26 avril 2025 Ecosup Assurance</mj-title>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&amp;display=swap"></mj-font>
     <mj-font name="fontAwesome" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"/>
     <mj-raw>
@@ -26,10 +26,10 @@
       <mj-class name="T10-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="12px" font-weight="300"/>
       <mj-class name="cT1" color="#1a1a1a"/>
       <mj-class name="cT0" color="#4d4d4d"/>
-      <mj-class name="c0" color="#EC6608"/>
-      <mj-class name="bg0" background-color="#EC6608"/>
-      <mj-class name="c1" color="#AA3E17"/>
-      <mj-class name="bg1" background-color="#AA3E17"/>
+      <mj-class name="c0" color="#944694"/>
+      <mj-class name="bg0" background-color="#944694"/>
+      <mj-class name="c1" color="#644092"/>
+      <mj-class name="bg1" background-color="#644092"/>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
@@ -41,13 +41,21 @@
     </mj-section>
     <mj-section mj-class="bg0" padding="10px 20px">
       <mj-column>
-        <mj-image padding="0" align="left" width="153px" src="https://i.ibb.co/HfGm43kc/ECOSUPimmo-Blanc.png" alt="logo Ecosup Immobilier"/>
+        <mj-image padding="0" align="left" width="153px" src="https://i.ibb.co/bP0LZ5M/logo-Assurance-Blanc.png" alt="logo Ecosup Assurance"/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ecebf3" padding="10px 20px">
-      <mj-column>
-        <mj-image padding="0" width="50px" src="https://i.ibb.co/G09QhCx/logo-BNIjpo12142024.png" alt="logo BNI"/>
-      </mj-column>
+      <mj-group width="60%">
+        <mj-column vertical-align="middle">
+          <mj-image padding="0" align="right" width="70px" src="https://i.ibb.co/mJ8m8cb/logo-Graftonjpo12142024.png" alt="logo Grafton recruitment"/>
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-image padding="0" align="center" width="50px" src="https://i.ibb.co/G09QhCx/logo-BNIjpo12142024.png" alt="logo BNI"/>
+        </mj-column>
+        <mj-column vertical-align="middle">
+          <mj-image padding="0" align="left" width="70px" src="https://i.ibb.co/FgxXSyj/Logo-Atlasjpo12142024.png" alt="logo Atlas opco"/>
+        </mj-column>
+      </mj-group>
     </mj-section>
     <mj-section background-color="#ecebf3" padding="0">
       <mj-column>
@@ -58,7 +66,7 @@
     <mj-section background-color="#ffffff" padding="20px"> 
       <mj-column width="88%">
         <mj-text padding="10px 10px" mj-class="T16-400 cT0">Bonjour <span style="font-weight:700;color:#1a1a1a;">{{ contact.PRENOM }}</span>, </mj-text>
-        <mj-text padding="10px 10px" mj-class="T16-400 cT0">Vous êtes intéressé(e) par les métiers de l'immobilier. Plongez dans une expérience unique avec une formation diplômante et qualifiante qui boostera votre avenir professionnel&nbsp;!</mj-text>
+        <mj-text padding="10px 10px" mj-class="T16-400 cT0">Vous êtes intéressé(e) par les métiers de l'assurance et de la banque. Plongez dans une expérience unique avec une formation diplômante et qualifiante qui boostera votre avenir professionnel&nbsp;!</mj-text>
         <mj-text padding="2px 10px" mj-class="T16-400 cT0">Lors de cet événement, vous aurez l'opportunité de : </mj-text>
         <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Explorer</span> notre campus moderne et <span style="font-weight:700;color:#1a1a1a;">découvrir</span> des infrastructures à la pointe,</mj-text>
         <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Échanger</span> avec nos enseignants passionnés et notre équipe pédagogique,</mj-text>
@@ -66,52 +74,89 @@
         <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Poser</span> toutes vos questions sur les admissions, le parcours, ou encore la vie étudiante,</mj-text>
         <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Discuter</span> directement avec nos étudiants pour connaître leur ressenti et leurs expériences.</mj-text>
         <mj-text padding="10px 10px" mj-class="T16-400 cT0">Ce sera l'occasion parfaite pour donner un véritable coup d'accélérateur à votre carrière. Parce que vos ambitions méritent les meilleures opportunités. Un rendez-vous à ne pas manquer&nbsp;!</mj-text>
-        <mj-text align="right" padding="0px 30px" mj-class="T16-700 cT1">Clément Duhamel </mj-text>
+        <mj-text align="right" padding="0px 30px" mj-class="T16-700 cT1">Christian Annaloro </mj-text>
         <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Responsable pédagogique</mj-text>
-        <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Ecosup Immobilier</mj-text>
+        <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Ecosup Assurance</mj-text>
         <mj-button padding="0" padding-top="20px" width="280px" mj-class="T16-700 bg0"><span style="text-transform:uppercase;">Journée Portes Ouvertes</span> samedi 26 avril de 9h30 à 13h</mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" padding-bottom="0px" background-color="#ffffff">
       <mj-column width="88%">
-        <mj-text align="center" padding="0" mj-class="T24-300 cT1">Notre formation en Immobilier à Bac+2</mj-text>
+        <mj-text align="center" padding="0" mj-class="T24-300 cT1">Nos formations en Assurance et Banque de Bac+2 à Bac+5</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
       <mj-column width="20%" vertical-align="top" background-color="#f2f2f2">
-        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/WpfdVP7q/01-Immobjpo26042025.png" alt="formation BTS professions immobilières en apprentissage"/>
+        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/9HW9YDPH/03-Assjpo26042025.png" alt="Formation BTS Assurance en apprentissage"/>
       </mj-column>
       <mj-column width="80%" vertical-align="top">
         <mj-spacer height="20px"></mj-spacer>
         <mj-button align="left" padding="0px 15px" inner-padding="1px 8px" mj-class="T13-400 cT1" background-color="#e6e6e6" border-radius="2px">Formation en apprentissage</mj-button>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#EC6608;">&#x27A4;</span> <span style="font-weight:700;">BTS</span> Professions immobilières</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#944694;">&#x27A4;</span> <span style="font-weight:700;">BTS</span> Assurance</mj-text>
         <mj-text align="left" padding="0px 15px" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac,</mj-text>
         <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">2 ans</span>,</mj-text>
         <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
-        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-commerce.fr/bts-professions-immobilieres/">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/bghZ8XT2/fleche-Imm-Com.png" alt="flèche Immobilier orange"/></mj-button>
+        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-assurance.fr/bts-assurance/">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/7xWPH2pL/fleche-Assurance.png" alt="flèche Assurance violette"/></mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px" background-color="#ffffff">
+      <mj-column width="20%" vertical-align="top" background-color="#f2f2f2">
+        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/b5tM2wxj/02-Assjpo26042025.png" alt="Formation Bachelor Chargé(e) de clientèles en Assurance et Banque"/>
+      </mj-column>
+      <mj-column width="80%" vertical-align="top">
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-button align="left" padding="0px 15px" inner-padding="1px 8px" mj-class="T13-400 cT1" background-color="#e6e6e6" border-radius="2px">Formation en apprentissage</mj-button>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#944694;">&#x27A4;</span> <span style="font-weight:700;">Bachelor</span> Chargé(e) de Clientèles en Assurance et Banque</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac+2,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">1 an</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : Programme conçu avec <span style="font-weight:700;color:#1a1a1a;">ESA</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0"><span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
+        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-assurance.fr/bachelor-charge-clienteles-assurance-banque/">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/7xWPH2pL/fleche-Assurance.png" alt="flèche Assurance violette"/></mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px" background-color="#ffffff">
+      <mj-column width="20%" vertical-align="top" background-color="#f2f2f2">
+        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/C5wLqyy5/01-Assjpo26042025.png" alt="Formation Mastère Expert(e) en ingénierie patrimoniale en alternance"/>
+      </mj-column>
+      <mj-column width="80%" vertical-align="top">
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-button align="left" padding="0px 15px" inner-padding="1px 8px" border-radius="2px" background-color="#e6e6e6" mj-class="T13-400 cT1">Formation en apprentissage</mj-button>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#944694;">&#x27A4;</span> <span style="font-weight:700;">Mastère</span> Expert(e) en Ingénierie Patrimoniale</mj-text>
+        <mj-text padding="0 15px" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac+3,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">2 ans</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : Programme conçu avec <span style="font-weight:700;color:#1a1a1a;">ESA</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
+        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-assurance.fr/mastere-expert-en-ingenierie-patrimoniale/">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/7xWPH2pL/fleche-Assurance.png" alt="flèche Assurance violette"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#e6e6e6" padding="20px">
       <mj-group width="40%">
         <mj-column width="50%">
-          <mj-image align="right" padding="5px" width="150px" src="https://i.ibb.co/xtNt9KbL/04jpo2025article-SM.png" alt="Remise de diplômes"/>
-          <mj-image align="right" padding="5px" width="150px" src="https://i.ibb.co/dw1NjsBT/03jpo2025article-SM.png" alt="Mardi gras et Carnaval à Ecosup Campus"/>
+          <mj-image align="right" padding="5px" width="150px" src="https://i.ibb.co/8npSjrcB/02jpo2025article-Ass.png" alt="Pour séduire les entreprises le cvBook"/>
         </mj-column>
         <mj-column width="50%">
-          <mj-image align="left" padding="5px" width="150px" src="https://i.ibb.co/QFr1bWD5/02jpo2025article-SM.png" alt="Saint Nicolas, distribution d'un chocolat et d'une tranche de briohe"></mj-image>
-          <mj-image align="left" padding="5px" width="150px" src="https://i.ibb.co/xSyz12V7/01jpo2025article-SM.png" alt="Mois de novembre sur le cancer de la prostate"></mj-image>
+          <mj-image align="left" padding="5px" width="150px" src="https://i.ibb.co/KxnyTYRF/01jpo2025article-Ass.png" alt="Grafton recruitment spécialiste du coaching aide nos étudiant dans leur recherche d'alternance"/>
+        </mj-column>
+        <mj-column width="100%">
+          <mj-image align="center" padding="5px" width="310px" src="https://i.ibb.co/tw8Q9sMH/04jpo2025article-Ass.png" alt="Job Dating pour réunir entreprises et étudiants"/>
         </mj-column>
       </mj-group>
       <mj-column width="60%">
         <mj-spacer height="18px"></mj-spacer>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-700 c1">Énergie et convivialité : la vie étudiante à EcoSup Campus</mj-text>
-        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0"><span style="font-weight:700;color:#1a1a1a;">Ecosup Campus</span> organise toute l'année des animations variées pour <span style="font-weight:700;color:#1a1a1a;">dynamiser la vie étudiante</span> : concours photos, petits déjeuners, défis sportifs, oeufs de Pâques... </mj-text>
-        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0"><span style="font-weight:700;color:#1a1a1a;">Une grande soirée de rentrée</span>, axée sur le partage et l'échange, rassemble tous les étudiants après leur arrivée, <span style="font-weight:700;color:#1a1a1a;">favorisant les rencontres et l'intégration</span> au sein du campus.</mj-text>
-        <mj-button align="left" padding-top="15px" border-radius="5px" mj-class="T13-700 bg1" color="#ffffff" target="_blank" href="https://www.instagram.com/ecosup.campus/">
-           La vie du campus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/4ZRXYT7M/fleche-Blanche.png" alt="flèche blanche"/></mj-button>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-700 c1">Ecosup Assurance : mobilisés pour votre apprentissage !</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0">Chez <span style="font-weight:700;color:#1a1a1a;">Ecosup Assurance</span>, nous mettons tout en œuvre pour vous aider à trouver votre apprentissage.</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0">Grâce à nos <span style="font-weight:700;color:#1a1a1a;">CV books</span>, nos <span style="font-weight:700;color:#1a1a1a;">job dating</span> et nos partenariats avec des <span style="font-weight:700;color:#1a1a1a;">entreprises engagées</span> <span style="font-style:italic">(Grafton recruitment)</span>, nous vous accompagnons et vous préparons au mieux pour décrocher l'apprentissage idéal.</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0">Votre réussite est notre priorité !</mj-text>
       </mj-column>
     </mj-section>
     <mj-wrapper background-color="#ffffff" padding="20px">
@@ -137,7 +182,7 @@
     </mj-wrapper>
     <mj-section mj-class="bg1" padding="0 20px">
       <mj-column>
-        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-commerce.fr/bts-professions-immobilieres/" target="_blank">www.ecosup-immobilier.fr</a></mj-text>
+        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-assurance.fr" target="_blank">www.ecosup-assurance.fr</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#1a1a1a" padding="20px 32px">
