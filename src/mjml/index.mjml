@@ -136,21 +136,19 @@
     <mj-section background-color="#e6e6e6" padding="20px">
       <mj-group width="40%">
         <mj-column width="50%">
-          <mj-image align="right" padding="5px" width="150px" src="https://i.ibb.co/ZRRTt0rp/photo03.png" alt=""/>
-          <mj-image align="right" padding="5px" width="150px" src="https://i.ibb.co/RkV6z7qF/photo04.png" alt=""></mj-image>
+          <mj-image align="right" padding="5px" width="150px" src="https://i.ibb.co/CKjNszKS/04jpo2025article-Tour.png" alt="panneau de contôle du nombre de vols commerciaux"/>
+          <mj-image align="right" padding="5px" width="150px" src="https://i.ibb.co/9Hm2RHdj/01jpo2025article-Tour.png" alt="Embarquement"/>
         </mj-column>
         <mj-column width="50%">
-          <mj-image align="left" padding="5px" width="150px" src="https://i.ibb.co/FkKwrsCW/photo02.png" alt=""></mj-image>
-          <mj-image align="left" padding="5px" width="150px" src="https://i.ibb.co/8nG4xC4H/photo01.png" alt=""></mj-image>
+          <mj-image align="left" padding="5px" width="150px" src="https://i.ibb.co/b5PrDphd/02jpo2025article-Tour.png" alt="Hôtesse de l'air et Steward"/>
+          <mj-image align="left" padding="5px" width="150px" src="https://i.ibb.co/234BWrHy/03jpo2025article-Tour.png" alt="Air Training Academy"/>
         </mj-column>
       </mj-group>
       <mj-column width="60%">
         <mj-spacer height="18px"></mj-spacer>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-700 c1">Destination Prague en Tchéquie</mj-text>
-        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0">Une semaine totalement dédiée à la culture du voyage et du tourisme.</mj-text>
-        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0"><span style="font-weight:700;color:#1a1a1a;">100% prise en charge</span>, vous profiterez d'un programme alliant des challenges, des cours et de nombreuses visites touristiques en anglais de la ville et de ses attractions.</mj-text>
-        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0">Une semaine pour progresser, voyager, rencontrer, s'amuser, profiter…</mj-text>
-        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0">Faites vos valises, <span style="font-weight:700;color:#1a1a1a;">embarquement en mars 2026.</span></mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-700 c0">CCA : votre passeport pour une carrière dans l'aérien</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0">Notre formation au <span style="font-weight:700;color:#1a1a1a;">Cabin Crew Attestation</span> <span style="font-style:italic;">(CCA)</span>, en partenariat avec <span style="font-weight:700;color:#1a1a1a;">Air Training Academy</span>, vous prépare efficacement au métier d'hôtesse de l'air ou de steward. </mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0">Grâce à une <span style="font-weight:700;color:1a1a1a;">prise en charge complète</span>, vous maîtriserez les compétences essentielles en sécurité, secourisme et service à bord, avec une <span style="font-weight:700;color:#1a1a1a;">certification reconnue par toutes les compagnies aériennes européennes</span>.</mj-text>
       </mj-column>
     </mj-section>
     <mj-wrapper background-color="#ffffff" padding="20px">
