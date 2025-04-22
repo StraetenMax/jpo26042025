@@ -41,7 +41,7 @@
     </mj-section>
     <mj-section mj-class="bg0" padding="10px 20px">
       <mj-column>
-        <mj-image padding="0" align="left" width="153px" src="https://i.ibb.co/wwWg6s3/logo-Commerce-Blanc.png" alt="logo Ecosup Commerce"/>
+        <mj-image padding="0" align="left" width="153px" src="https://i.ibb.co/HfGm43kc/ECOSUPimmo-Blanc.png" alt="logo Ecosup Immobilier"/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ecebf3" padding="10px 20px">
@@ -137,7 +137,7 @@
     </mj-wrapper>
     <mj-section mj-class="bg1" padding="0 20px">
       <mj-column>
-        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-commerce.fr" target="_blank">www.ecosup-commerce.fr</a></mj-text>
+        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-commerce.fr/bts-professions-immobilieres/" target="_blank">www.ecosup-immobilier.fr</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#1a1a1a" padding="20px 32px">
