@@ -1,7 +1,7 @@
 
 <mjml>
   <mj-head>
-    <mj-title>JPO du 26 avril 2025 Ecosup Commerce</mj-title>
+    <mj-title>JPO du 26 avril 2025 Ecosup Tourisme</mj-title>
     <mj-font name="Roboto" href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&amp;display=swap"></mj-font>
     <mj-font name="fontAwesome" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css"/>
     <mj-raw>
@@ -26,10 +26,10 @@
       <mj-class name="T10-300" font-family="Roboto, Arial, Helvetica, sans-serif" font-style="normal" font-size="10px" line-height="12px" font-weight="300"/>
       <mj-class name="cT1" color="#1a1a1a"/>
       <mj-class name="cT0" color="#4d4d4d"/>
-      <mj-class name="c0" color="#EC6608"/>
-      <mj-class name="bg0" background-color="#EC6608"/>
-      <mj-class name="c1" color="#AA3E17"/>
-      <mj-class name="bg1" background-color="#AA3E17"/>
+      <mj-class name="c0" color="#1F3C90"/>
+      <mj-class name="bg0" background-color="#1F3C90"/>
+      <mj-class name="c1" color="#20274F"/>
+      <mj-class name="bg1" background-color="#20274F"/>
     </mj-attributes>
     <mj-breakpoint width="480px"></mj-breakpoint>
   </mj-head>
@@ -41,18 +41,13 @@
     </mj-section>
     <mj-section mj-class="bg0" padding="10px 20px">
       <mj-column>
-        <mj-image padding="0" align="left" width="153px" src="https://i.ibb.co/wwWg6s3/logo-Commerce-Blanc.png" alt="logo Ecosup Commerce"/>
+        <mj-image padding="0" align="left" width="153px" src="https://i.ibb.co/JndJbtQ/Logo-Tourisme-Blanc.png" alt="logo Ecosup Tourisme"/>
       </mj-column>
     </mj-section>
     <mj-section background-color="#ecebf3" padding="10px 20px">
-      <mj-group width="60%">
-        <mj-column vertical-align="middle" padding="0 20px">
-          <mj-image padding="0" align="right" width="70px" src="https://i.ibb.co/mJ8m8cb/logo-Graftonjpo12142024.png" alt="logoGrafton recruitment"/>
-        </mj-column>
-        <mj-column vertical-align="middle" padding="0 20px">
-          <mj-image padding="0" align="left" width="50px" src="https://i.ibb.co/G09QhCx/logo-BNIjpo12142024.png" alt="logo BNI"/>
-        </mj-column>
-      </mj-group>
+      <mj-column>
+        <mj-image padding="0" width="150px" src="https://i.ibb.co/Xx3GprBW/air-Training-CCA.png" alt="logo Air Training academy"/> 
+      </mj-column>
     </mj-section>
     <mj-section background-color="#ecebf3" padding="0">
       <mj-column>
@@ -63,7 +58,7 @@
     <mj-section background-color="#ffffff" padding="20px"> 
       <mj-column width="88%">
         <mj-text padding="10px 10px" mj-class="T16-400 cT0">Bonjour <span style="font-weight:700;color:#1a1a1a;">{{ contact.PRENOM }}</span>, </mj-text>
-        <mj-text padding="10px 10px" mj-class="T16-400 cT0">Vous êtes intéressé par les métiers du commerce et du marketing. Plongez dans une expérience unique avec une formation diplômante et qualifiante qui boostera votre avenir professionnel&nbsp;!</mj-text>
+        <mj-text padding="10px 10px" mj-class="T16-400 cT0">Vous êtes intéressé(e) par les métiers du tourisme. Plongez dans une expérience unique avec une formation diplômante et qualifiante qui boostera votre avenir professionnel&nbsp;!</mj-text>
         <mj-text padding="2px 10px" mj-class="T16-400 cT0">Lors de cet événement, vous aurez l'opportunité de : </mj-text>
         <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Explorer</span> notre campus moderne et <span style="font-weight:700;color:#1a1a1a;">découvrir</span> des infrastructures à la pointe,</mj-text>
         <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Échanger</span> avec nos enseignants passionnés et notre équipe pédagogique,</mj-text>
@@ -71,68 +66,89 @@
         <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Poser</span> toutes vos questions sur les admissions, le parcours, ou encore la vie étudiante,</mj-text>
         <mj-text padding="2px 10px" mj-class="T16-400 cT0"><span style="font-size:12px;line-height:20px;">&#x2705;</span> <span style="font-weight:700;color:#1a1a1a;">Discuter</span> directement avec nos étudiants pour connaître leur ressenti et leurs expériences.</mj-text>
         <mj-text padding="10px 10px" mj-class="T16-400 cT0">Ce sera l'occasion parfaite pour donner un véritable coup d'accélérateur à votre carrière. Parce que vos ambitions méritent les meilleures opportunités. Un rendez-vous à ne pas manquer&nbsp;!</mj-text>
-        <mj-text align="right" padding="0px 30px" mj-class="T16-700 cT1">Marie-Laurence Wallaert</mj-text>
+        <mj-text align="right" padding="0px 30px" mj-class="T16-700 cT1">Clément Duhamel </mj-text>
         <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Responsable pédagogique</mj-text>
-        <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Ecosup Commerce</mj-text>
+        <mj-text align="right" padding="0px 30px" mj-class="T16-400 cT0">Ecosup Tourisme</mj-text>
         <mj-button padding="0" padding-top="20px" width="280px" mj-class="T16-700 bg0"><span style="text-transform:uppercase;">Journée Portes Ouvertes</span> samedi 26 avril de 9h30 à 13h</mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" padding-bottom="0px" background-color="#ffffff">
       <mj-column width="88%">
-        <mj-text align="center" padding="0" mj-class="T24-300 cT1">Nos formations en Commerce de Bac+2 à Bac+3</mj-text>
+        <mj-text align="center" padding="0" mj-class="T24-300 cT1">Nos formations en Tourisme de Bac+2 à Bac+5</mj-text>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
       <mj-column width="20%" vertical-align="top" background-color="#f2f2f2">
-        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/xdJW4rh/01-Comjpo26042025.png" alt="BTS MCO Management Commercial Opérationnel en alternance"/>
+        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/WW210Syz/03-Tourjpo26042025.png" alt="BTS Tourisme en alternance"/>
       </mj-column>
       <mj-column width="80%" vertical-align="top">
         <mj-spacer height="20px"></mj-spacer>
         <mj-button align="left" padding="0px 15px" inner-padding="1px 8px" mj-class="T13-400 cT1" background-color="#e6e6e6" border-radius="2px">Formation en apprentissage</mj-button>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#EC6608;">&#x27A4;</span> <span style="font-weight:700;">BTS</span> Management Commercial Opérationnel</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#1F3C90;">&#x27A4;</span> <span style="font-weight:700;">BTS</span> Tourisme</mj-text>
         <mj-text align="left" padding="0px 15px" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac,</mj-text>
         <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">2 ans</span>,</mj-text>
         <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">préparation au CCA</span>, Cabin Crew Attestation,</mj-text>
+        <mj-text align="left" padding="0 15px" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
-        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-commerce.fr/bts-management-commercial-operationnel/">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/bghZ8XT2/fleche-Imm-Com.png" alt="flèche Commerce orange"/></mj-button>
+        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-tourisme.fr/bts-tourisme/">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/C5FdvWyv/fleche-Tourisme.png" alt="flèche Tourisme bleue"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-section padding="20px" background-color="#ffffff">
       <mj-column width="20%" vertical-align="top" background-color="#f2f2f2">
-        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/84XwVv6K/02-Comjpo26042025.png" alt="Bachelor Responsable en Développement Commercial"/>
+        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/prL45qj4/01-Tourjpo26042025.png" alt="Bachelor Chargé(e) de gestion commerciale en tourisme"/>
       </mj-column>
       <mj-column width="80%" vertical-align="top">
         <mj-spacer height="20px"></mj-spacer>
         <mj-button align="left" padding="0px 15px" inner-padding="1px 8px" mj-class="T13-400 cT1" background-color="#e6e6e6" border-radius="2px">Formation en apprentissage</mj-button>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#EC6608;">&#x27A4;</span> <span style="font-weight:700;">Bachelor</span> Responsable en Développement Commercial</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#1F3C90;">&#x27A4;</span> <span style="font-weight:700;">Bachelor</span> Chargé(e) de Gestion commerciale en Tourisme</mj-text>
         <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac+2,</mj-text>
         <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
            <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">1 an</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Travel Week</span>, semaine immersive en mobilité internationale,</mj-text>
         <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0"><span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
-        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-commerce.fr/bachelor-responsable-developpement-commercial/">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/bghZ8XT2/fleche-Imm-Com.png" alt="flèche Commerce orange"/></mj-button>
+        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-tourisme.fr/bachelor-charge-gestion-commerciale-tourisme/">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/C5FdvWyv/fleche-Tourisme.png" alt="flèche Tourisme Bleue"/></mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section padding="20px" background-color="#ffffff">
+      <mj-column width="20%" vertical-align="top" background-color="#f2f2f2">
+        <mj-image align="left" padding="0" width="112px" src="https://i.ibb.co/gFHhqhT1/02-Tourjpo26042025.png" alt="Mastère Management stratégique des entreprises du tourisme"/>
+      </mj-column>
+      <mj-column width="80%" vertical-align="top">
+        <mj-spacer height="20px"></mj-spacer>
+        <mj-button align="left" padding="0px 15px" inner-padding="1px 8px" border-radius="2px" background-color="#e6e6e6" mj-class="T13-400 cT1">Formation en apprentissage</mj-button>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-300 cT1"><span style="color:#1F3C90;">&#x27A4;</span> <span style="font-weight:700;">Mastère</span> Management Stratégique des Entreprises du Tourisme</mj-text>
+        <mj-text padding="0 15px" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Post-Bac+3,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Durée : <span style="font-weight:700;color:#1a1a1a;">2 ans</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Le Plus : <span style="font-weight:700;color:#1a1a1a;">Double certification internationale</span>,</mj-text>
+        <mj-text padding="0 15px" align="left" mj-class="T16-400 cT0">
+           <span style="color:#d9d9d9;">&#x25CF;</span> Formation gratuite et rémunérée.</mj-text>
+        <mj-button align="center" padding-top="15px" border-radius="5px" background-color="#f2f2f2" mj-class="T13-700 c0" target="_blank" href="https://ecosup-tourisme.fr/mastere-management-strategique-entreprise-tourisme/">En savoir plus&nbsp;&nbsp;<img width="12px" src="https://i.ibb.co/C5FdvWyv/fleche-Tourisme.png" alt="flèche Tourisme Bleue"/></mj-button>
       </mj-column>
     </mj-section>
     <mj-section background-color="#e6e6e6" padding="20px">
       <mj-group width="40%">
         <mj-column width="50%">
-          <mj-image align="right" padding="5px" width="150px" src="https://i.ibb.co/rGYVNdzT/01jpo2025article-Com.png" alt="Pour séduire les entreprises le cvBook"/>
+          <mj-image align="right" padding="5px" width="150px" src="https://i.ibb.co/CKjNszKS/04jpo2025article-Tour.png" alt="panneau de contôle du nombre de vols commerciaux"/>
+          <mj-image align="right" padding="5px" width="150px" src="https://i.ibb.co/9Hm2RHdj/01jpo2025article-Tour.png" alt="Embarquement"/>
         </mj-column>
         <mj-column width="50%">
-          <mj-image align="left" padding="5px" width="150px" src="https://i.ibb.co/KxnyTYRF/01jpo2025article-Ass.png" alt="Grafton recruitment spécialiste du coaching aide nos étudiant dans leur recherche d'alternance"/>
-        </mj-column>
-        <mj-column width="100%">
-          <mj-image align="center" padding="5px" width="310px" src="https://i.ibb.co/7dV86ky4/02jpo2025article-Com.png" alt="Job Dating pour réunir entreprises et étudiants"/>
+          <mj-image align="left" padding="5px" width="150px" src="https://i.ibb.co/b5PrDphd/02jpo2025article-Tour.png" alt="Hôtesse de l'air et Steward"/>
+          <mj-image align="left" padding="5px" width="150px" src="https://i.ibb.co/234BWrHy/03jpo2025article-Tour.png" alt="Air Training Academy"/>
         </mj-column>
       </mj-group>
       <mj-column width="60%">
         <mj-spacer height="18px"></mj-spacer>
-        <mj-text align="left" padding="2px 15px" mj-class="T24-700 c1">Ecosup Commerce : mobilisés pour votre apprentissage !</mj-text>
-        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0">Chez <span style="font-weight:700;color:#1a1a1a;">Ecosup Commerce</span>, nous mettons tout en œuvre pour vous aider à trouver votre apprentissage.</mj-text>
-        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0">Grâce à nos <span style="font-weight:700;color:#1a1a1a;">CV books</span>, nos <span style="font-weight:700;color:#1a1a1a;">job dating</span> et nos partenariats avec des <span style="font-weight:700;color:#1a1a1a;">entreprises engagées</span> <span style="font-style:italic">(Grafton recruitment)</span>, nous vous accompagnons et vous préparons au mieux pour décrocher l'apprentissage idéal.</mj-text>
-        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0">Votre réussite est notre priorité !</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T24-700 c0">CCA : votre passeport pour une carrière dans l'aérien</mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0">Notre formation au <span style="font-weight:700;color:#1a1a1a;">Cabin Crew Attestation</span> <span style="font-style:italic;">(CCA)</span>, en partenariat avec <span style="font-weight:700;color:#1a1a1a;">Air Training Academy</span>, vous prépare efficacement au métier d'hôtesse de l'air ou de steward. </mj-text>
+        <mj-text align="left" padding="2px 15px" mj-class="T16-400 cT0">Grâce à une <span style="font-weight:700;color:1a1a1a;">prise en charge complète</span>, vous maîtriserez les compétences essentielles en sécurité, secourisme et service à bord, avec une <span style="font-weight:700;color:#1a1a1a;">certification reconnue par toutes les compagnies aériennes européennes</span>.</mj-text>
       </mj-column>
     </mj-section>
     <mj-wrapper background-color="#ffffff" padding="20px">
@@ -158,7 +174,7 @@
     </mj-wrapper>
     <mj-section mj-class="bg1" padding="0 20px">
       <mj-column>
-        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-commerce.fr" target="_blank">www.ecosup-commerce.fr</a></mj-text>
+        <mj-text align="center" padding="14px 0" mj-class="T24-700" color="#ffffff" letter-spacing="2px"><a style="text-decoration:none;color:#ffffff;" href="https://ecosup-tourisme.fr" target="_blank">www.ecosup-tourisme.fr</a></mj-text>
       </mj-column>
     </mj-section>
     <mj-section background-color="#1a1a1a" padding="20px 32px">
